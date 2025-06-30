@@ -20,13 +20,9 @@ Check out My Portfolio:https://github.com/AnoopRn09/my-portfolio
 
 ### 🤖 I Craft AI, ML, DL Masterpieces
 - **Safety Helmet Detection at Industrial Site**  
-  An AI vision tool ensuring safety at industrial sites with helmet detection.
 - **Deepfake detective : detecting synthetic media manipulations** 
-  A cybersecurity-inspired detector for deepfake manipulations.
 - **Personalized Fashion outfit Recommender using user photos**
-  A full-stack fashion app recommending outfits from user photos.
 - **MindMatrix AI: Intelligent Knowledge Nexus**  
-  My "Second Brain" for smart, organized knowledge management.
 
 ---
 
