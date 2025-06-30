@@ -7,16 +7,30 @@ Here are some ideas to get you started:
 
 A self-taught Full-Stack Developer crafting web and AI marvels.
 
+## My Forging Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### I Forge Web Applications
+- **React.js** (JS) • ⭐️⭐️⭐️  
+  Sculpting dynamic frontends with artistic precision.
+- **Next.js** (JS/TS) • ⭐️⭐️⭐️  
+  Mastering server-side rendered masterpieces.
+- **Svelte** (JS/TS) • ⭐  
+  Experimenting with sleek, lightweight frameworks.
+- **Node.js** (JS/TS) • ⭐️⭐️⭐️  
+  Forging robust backends with unwavering strength.
+
+### I Craft AI, ML, DL Masterpieces
+- **IronWatch AI: Industrial Safety Sentinel**  
+  An AI vision tool ensuring safety at industrial sites with helmet detection.
+- **RealityGuard AI: Synthetic Media Sleuth**  
+  A cybersecurity-inspired detector for deepfake manipulations.
+- **StylePulse AI: Photo-Driven Fashion Curator**  
+  A full-stack fashion app recommending outfits from user photos.
+- **MindMatrix AI: Intelligent Knowledge Nexus**  
+  My "Second Brain" for smart, organized knowledge management.
+
+
+*Last Forged: 08:03 PM IST, June 30, 2025*
 # 💻 Tech Stack
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
