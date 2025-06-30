@@ -27,4 +27,4 @@ A self-taught Full-Stack Developer crafting web and AI marvels.
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Data Analyst](https://img.shields.io/badge/Data%20Analyst-%231E90FF.svg?style=for-the-badge&logo=data-analyst&logoColor=white)
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-%23FF4500.svg?style=for-the-badge&logo=cybersecurity&logoColor=white)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-%23FF4500.svg?style=for-the-badge&logo=shield&logoColor=white)
