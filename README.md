@@ -1,15 +1,19 @@
-## 🌟 Welcome to My Github Space! I am Anoop R N 👋
+# 🌟 Anoop's Code Haven
+👋 Welcome to my GitHub space! I am Anoop R N, a B.Tech graduate in AI & Data Science, forging innovative solutions as a self-taught Full-Stack Developer.
 
-<!--
-**AnoopRn09/anooprn09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🚀 About Me
+This repository (`README.md`) is the gateway to my coding journey. I blend web development with AI marvels, crafting projects that push the boundaries of technology.
 
-A self-taught Full-Stack Developer crafting web and AI marvels.
+- **Education**: B.Tech in AI & Data Science, Siddaganga Institute of Technology
+- **Passion**: Building scalable web apps and intelligent systems.
 
-## My Forging Skills
+---
 
-### I Forge Web Applications
+## 💻 My Forging Skills
+
+### 🌐 I Forge Web Applications
 - **React.js** (JS) • ⭐️⭐️⭐️  
   Sculpting dynamic frontends with artistic precision.
 - **Next.js** (JS/TS) • ⭐️⭐️⭐️  
@@ -19,7 +23,7 @@ A self-taught Full-Stack Developer crafting web and AI marvels.
 - **Node.js** (JS/TS) • ⭐️⭐️⭐️  
   Forging robust backends with unwavering strength.
 
-### I Craft AI, ML, DL Masterpieces
+### 🤖 I Craft AI, ML, DL Masterpieces
 - **IronWatch AI: Industrial Safety Sentinel**  
   An AI vision tool ensuring safety at industrial sites with helmet detection.
 - **RealityGuard AI: Synthetic Media Sleuth**  
@@ -29,9 +33,9 @@ A self-taught Full-Stack Developer crafting web and AI marvels.
 - **MindMatrix AI: Intelligent Knowledge Nexus**  
   My "Second Brain" for smart, organized knowledge management.
 
+---
 
-*Last Forged: 08:03 PM IST, June 30, 2025*
-# 💻 Tech Stack
+## 🛠️ Tech Stack
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -40,5 +44,16 @@ A self-taught Full-Stack Developer crafting web and AI marvels.
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Data Analyst](https://img.shields.io/badge/Data%20Analyst-%231E90FF.svg?style=for-the-badge&logo=data-analyst&logoColor=white)
+![Data Analyst](https://img.shields.io/badge/Data%20Analyst-%231E90FF.svg?style=for-the-badge&logo=chart-bar&logoColor=white)
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-%23FF4500.svg?style=for-the-badge&logo=shield&logoColor=white)
+
+---
+
+## 📫 Let's Connect
+- [LinkedIn](https://www.linkedin.com/in/anooprn-mahi7781)
+- [Email](mailto:anoop@example.com)
+- [Portfolio](https://leetcode.com/u/jaga4056/)
+
+---
+
+*Last Updated: 08:05 PM IST, June 30, 2025*
