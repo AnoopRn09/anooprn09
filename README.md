@@ -1,7 +1,7 @@
-# 🌟  Welcome to my GitHub space! 
+# 🌟  Welcome to My GitHub Space! 
 
 ## 🚀 About Me
-This repository (`README.md`) is the gateway to my coding journey. I blend web development with AI marvels, crafting projects that push the boundaries of technology.
+Check out My Portfolio:https://github.com/AnoopRn09/my-portfolio
 
 - **Education**: B.Tech in AI & Data Science, Siddaganga Institute of Technology
 - **Passion**: Building scalable web apps and intelligent systems.
