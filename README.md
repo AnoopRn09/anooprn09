@@ -1,7 +1,4 @@
-# 🌟 Anoop's Code Haven
-👋 Welcome to my GitHub space! I am Anoop R N, a B.Tech graduate in AI & Data Science, forging innovative solutions as a self-taught Full-Stack Developer.
-
----
+# 🌟  Welcome to my GitHub space! 
 
 ## 🚀 About Me
 This repository (`README.md`) is the gateway to my coding journey. I blend web development with AI marvels, crafting projects that push the boundaries of technology.
