@@ -15,17 +15,15 @@ Check out My Portfolio:https://github.com/AnoopRn09/my-portfolio
   Sculpting dynamic frontends with artistic precision.
 - **Next.js** (JS/TS) • ⭐️⭐️⭐️  
   Mastering server-side rendered masterpieces.
-- **Svelte** (JS/TS) • ⭐  
-  Experimenting with sleek, lightweight frameworks.
 - **Node.js** (JS/TS) • ⭐️⭐️⭐️  
   Forging robust backends with unwavering strength.
 
 ### 🤖 I Craft AI, ML, DL Masterpieces
-- **IronWatch AI: Industrial Safety Sentinel**  
+- **Safety Helmet Detection at Industrial Site**  
   An AI vision tool ensuring safety at industrial sites with helmet detection.
-- **RealityGuard AI: Synthetic Media Sleuth**  
+- **Deepfake detective : detecting synthetic media manipulations** 
   A cybersecurity-inspired detector for deepfake manipulations.
-- **StylePulse AI: Photo-Driven Fashion Curator**  
+- **Personalized Fashion outfit Recommender using user photos**
   A full-stack fashion app recommending outfits from user photos.
 - **MindMatrix AI: Intelligent Knowledge Nexus**  
   My "Second Brain" for smart, organized knowledge management.
