@@ -1,14 +1,10 @@
 # 🌟  Welcome to My GitHub Space! 
 
-## 📫 Let's Connect
-- [LinkedIn](https://www.linkedin.com/in/anooprn-mahi7781)
-- [Email](mailto:anooprn.1si22ad400@gmail.com)
-- [Portfolio](https://github.com/AnoopRn09/my-portfolio)
+Check out my portfolio: [Portfolio](http://localhost:5173/)
 
+About me -  
 - **Education**: B.Tech in AI & Data Science, Siddaganga Institute of Technology
 - **Passion**: Building scalable web apps and intelligent systems.
-
----
 
 ## 💻 My Forging Skills
 
@@ -45,7 +41,7 @@
 ## 📫 Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/anooprn-mahi7781)
 - [Email](mailto:anooprn.1si22ad400@gmail.com)
-- [Portfolio](https://github.com/AnoopRn09/my-portfolio)
+
 
 ---
 
