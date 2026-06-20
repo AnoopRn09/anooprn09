@@ -105,19 +105,12 @@ Machine learning-based recommendation system that suggests outfit combinations b
 
 **Tech Stack:** Python, Recommendation Systems, Computer Vision
 
-### GigFlow Smart Leads Dashboard
-
-A full-stack lead management dashboard with authentication, role-based access, search, filters, pagination, CSV export, and Docker support. Built to manage sales leads with a clean and responsive interface.
-
-**Tech Stack:** React, TypeScript, Tailwind CSS, Node.js, Express.js, MongoDB
 
 ---
 
 ## Currently Learning
 
-- Pentagon Space Training
 - Automation Testing
-- Advanced Java
 - Application Support and Production Support
 - Cloud Fundamentals
 - API Testing with Postman
@@ -149,6 +142,6 @@ I am open to fresher opportunities in:
 
 ## Connect With Me
 
-- LinkedIn: [www.linkedin.com/in/anooprn-mahi7781](http://www.linkedin.com/in/anooprn-mahi7781)
+- LinkedIn: [www.linkedin.com/in/anooprn0709/](https://www.linkedin.com/in/anooprn0709/)
 - Email: [anooprn0709@gmail.com](mailto:anooprn0709@gmail.com)
 - GitHub: [github.com/AnoopRn09](https://github.com/AnoopRn09)
